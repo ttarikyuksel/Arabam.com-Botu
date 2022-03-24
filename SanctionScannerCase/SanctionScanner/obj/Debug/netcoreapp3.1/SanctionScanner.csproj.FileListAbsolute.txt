@@ -1,0 +1,16 @@
+C:\Users\yukse\source\repos\SanctionScannerCase\SanctionScanner\bin\Debug\netcoreapp3.1\SanctionScanner.exe
+C:\Users\yukse\source\repos\SanctionScannerCase\SanctionScanner\bin\Debug\netcoreapp3.1\SanctionScanner.deps.json
+C:\Users\yukse\source\repos\SanctionScannerCase\SanctionScanner\bin\Debug\netcoreapp3.1\SanctionScanner.runtimeconfig.json
+C:\Users\yukse\source\repos\SanctionScannerCase\SanctionScanner\bin\Debug\netcoreapp3.1\SanctionScanner.runtimeconfig.dev.json
+C:\Users\yukse\source\repos\SanctionScannerCase\SanctionScanner\bin\Debug\netcoreapp3.1\SanctionScanner.dll
+C:\Users\yukse\source\repos\SanctionScannerCase\SanctionScanner\bin\Debug\netcoreapp3.1\SanctionScanner.pdb
+C:\Users\yukse\source\repos\SanctionScannerCase\SanctionScanner\obj\Debug\netcoreapp3.1\SanctionScanner.csproj.AssemblyReference.cache
+C:\Users\yukse\source\repos\SanctionScannerCase\SanctionScanner\obj\Debug\netcoreapp3.1\SanctionScanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukse\source\repos\SanctionScannerCase\SanctionScanner\obj\Debug\netcoreapp3.1\SanctionScanner.AssemblyInfoInputs.cache
+C:\Users\yukse\source\repos\SanctionScannerCase\SanctionScanner\obj\Debug\netcoreapp3.1\SanctionScanner.AssemblyInfo.cs
+C:\Users\yukse\source\repos\SanctionScannerCase\SanctionScanner\obj\Debug\netcoreapp3.1\SanctionScanner.csproj.CoreCompileInputs.cache
+C:\Users\yukse\source\repos\SanctionScannerCase\SanctionScanner\obj\Debug\netcoreapp3.1\SanctionScanner.dll
+C:\Users\yukse\source\repos\SanctionScannerCase\SanctionScanner\obj\Debug\netcoreapp3.1\SanctionScanner.pdb
+C:\Users\yukse\source\repos\SanctionScannerCase\SanctionScanner\obj\Debug\netcoreapp3.1\SanctionScanner.genruntimeconfig.cache
+C:\Users\yukse\source\repos\SanctionScannerCase\SanctionScanner\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\yukse\source\repos\SanctionScannerCase\SanctionScanner\obj\Debug\netcoreapp3.1\SanctionScanner.csproj.CopyComplete

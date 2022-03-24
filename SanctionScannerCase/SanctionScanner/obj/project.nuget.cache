@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aTBBP9QbR46uWWx/u/wwDeKFWEUJl/e+1zy6aSpCgAIUbjyaBjEcZsQiLwwQ1yduH1NgGuU5IRmHyeP+fHlHGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yukse\\Desktop\\SanctionScannerCase\\SanctionScanner\\SanctionScanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yukse\\.nuget\\packages\\htmlagilitypack\\1.11.42\\htmlagilitypack.1.11.42.nupkg.sha512"
+  ],
+  "logs": []
+}
